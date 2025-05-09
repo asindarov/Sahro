@@ -2,7 +2,9 @@
 
 This project demonstrates how to securely share files using **Azure Blob Storage SAS (Shared Access Signature) tokens** within an **event-driven microservices architecture**. The system is built with two key microservices—one for document generation and another for file management—coordinated through **Azure Service Bus**.
 
-![Architecture Overview](images/architecture.png) <!-- Replace with your image path -->
+![Architecture Overview]
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/808e3dd0-6ee8-4e73-8541-84f5bf648ede" />
+<!-- Replace with your image path -->
 
 ## 📘 Project Summary
 
